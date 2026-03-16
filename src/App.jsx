@@ -113,12 +113,12 @@ function App() {
                 <div className="demo-box">
                   <strong>🌐 Demo Web Sitesi:</strong>
                   <a 
-                    href="https://egecrew.github.io/website-manastir-market-mehmet-turgut/" 
+                    href="https://manastir-market-mehmet-turgut.egecrew.com/" 
                     target="_blank" 
                     rel="noopener noreferrer" 
                     className="demo-link"
                   >
-                    egecrew.github.io/website-manastir-market-mehmet-turgut
+                    manastir-market-mehmet-turgut.egecrew.com
                   </a>
                 </div>
               </div>
